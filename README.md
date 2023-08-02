@@ -11,6 +11,7 @@ that allow us to introduce different things, different topic from Custom Adapter
 Now if we Click on any of the List View item it we show us a Toast Labeled as
 
 Country < respected Country Name>
+
 Cricket WorldCups Wins: < The respected Worldcup Wins of the Country >
 
 ![Screenshot 2023-08-02 234016](https://github.com/AaryanSahlot/Cricket_WorldCup_App/assets/137866460/f4473a92-fee3-437a-a088-12bad80a3e18)
